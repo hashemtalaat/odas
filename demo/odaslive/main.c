@@ -6,7 +6,6 @@
     #include "objects.h"
     #include "threads.h"
     #include "profiler.h"
-
     #include <getopt.h>
     #include <time.h>
     #include <signal.h>
